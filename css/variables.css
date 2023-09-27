@@ -1,0 +1,20 @@
+:root {
+  /* Used colors */
+  --main-color: #7f3a6a;
+  --main-white: #ffffff;
+  --main-yellow: #e9a923;
+  --title-color: #313131;
+  --subtitle-color: #585858;
+  --secondary-bg: #f1e9ee;
+  --footer-bg: #f9f1ee;
+
+  /* Used fonts */
+  --title-font: clamp(28px, 4vw, 46px);
+  --second-title-font: clamp(24px, 2.2vw, 32px);
+  --third-title-font: clamp(18px, 1.6vw, 24px);
+
+  --subtitle-font: 1rem;
+
+  /* Unused */
+  /* --footer-font: clamp(14px, 0.8vw, 16px); */
+}
